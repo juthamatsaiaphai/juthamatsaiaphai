@@ -73,8 +73,7 @@ n8n | AI Studio | Visual Studio Code
   
   <!-- 1. Gemini Certified Educator -->
   <p><b>1. Gemini Certified Educator (2026)</b></p>
-  <img src="  <img width="1052" height="801" alt="Screenshot 2026-07-22 142650" src="https://github.com/user-attachments/assets/d87fbf66-6bc9-410f-aed1-28997ee3b27e" />
- " alt="Gemini Certified Educator" width="400">
+  <img src="https://github.com/user-attachments/assets/d87fbf66-6bc9-410f-aed1-28997ee3b27e" alt="Gemini Certified Educator" width="400">
   <br><br>
 
   <!-- 2. Microsoft PowerBI Training -->
