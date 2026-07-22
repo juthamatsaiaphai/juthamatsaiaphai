@@ -1,16 +1,97 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Juthamat Saiaphai 👋</h1>
+<h3 align="center">Business Analyst / System Analyst</h3>
 
-<!--
-**juthamatsaiaphai/juthamatsaiaphai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Motivated to analyze business requirements, transform processes, and deliver data-driven digital solutions.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👤 About Me
+I am a **Digital Business and Information Systems** student at Mahasarakham University with a strong interest in **Business Analysis, System Analysis, Business Process Improvement,** and **Digital Transformation**. 
+
+I enjoy bridging the gap between business needs and technical solutions—interpreting data, analyzing requirements, and designing efficient workflows through modern digital technologies.
+
+---
+
+## 🎓 Education
+**Mahasarakham University** <br>
+Bachelor of Business Administration Program in Digital Business and Information Systems <br>
+📅 **Expected Graduation:** 2027 | 🎯 **GPA:** 2.74
+
+---
+
+## ⭐ Featured Skills & Career Interests
+
+📑 **Business Analysis:** Analyzing requirements, KPI analysis, and business process improvement.  
+🖥️ **System Analysis:** Designing system workflows, SDLC principles, and relational databases.  
+📊 **Data Analytics & BI:** Cleaning data, building interactive Power BI dashboards, and DAX measures.  
+🗄️ **Database Management:** Designing relational databases and executing SQL/PLSQL queries.  
+🤖 **Process Automation:** Streamlining workflows with n8n and digital tools.  
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Database & Programming
+SQL | MySQL | Oracle Database | Oracle PL/SQL | Oracle APEX
+
+### 📊 Data Analytics & Business Intelligence
+Power BI | Power Query | DAX | Microsoft Excel | Data Visualization
+
+### 🎨 Design & System Modeling
+Figma | draw.io | System Workflows (SDLC)
+
+### 🤖 Automation & Tools
+n8n | AI Studio | Visual Studio Code
+
+---
+
+## 📂 Featured Projects
+
+* **Apple Global Sales Insight** *(Power BI, Power Query, DAX)*  
+  Cleaned sales datasets and designed a 5-page interactive Power BI dashboard to analyze KPIs and sales trends.
+* **Rewear – Online Second-Hand Clothing Platform** *(Figma, draw.io)*  
+  Analyzed business requirements, designed system workflows using SDLC, and created UI/UX prototypes.
+* **Relational Database Design & Management** *(Oracle SQL, PL/SQL)*  
+  Designed relational databases for beauty salon and bakery inventory systems, optimizing performance and storage.
+* **Comparison of Predictive Models for Asthma** *(AI Studio, Machine Learning)*  
+  Built and evaluated multiple machine learning models for asthma prediction using healthcare datasets.
+
+---
+
+## 🏆 Certificates & Training
+
+### 📜 Certifications
+  **[ชื่อใบเซอร์ของคุณ 1]** (ปี ค.ศ.)  
+  **[ชื่อใบเซอร์ของคุณ 2]** (ปี ค.ศ.)  
+
+<details>
+  <summary><b>🖼️ Click to view my certificates (Images)</b></summary>
+  <br>
+  
+  <!-- Certificate 1 -->
+  <p><b>1. [ชื่อใบประกาศนียบัตร 1]</b></p>
+  <img src="ใส่_URL_รูปภาพใบเซอร์1" alt="Certificate 1" width="400">
+  <br><br>
+
+  <!-- Certificate 2 -->
+  <p><b>2. [ชื่อใบประกาศนียบัตร 2]</b></p>
+  <img src="ใส่_URL_รูปภาพใบเซอร์2" alt="Certificate 2" width="400">
+  <br><br>
+
+</details>
+
+---
+
+## 📫 Contact & Connect
+
+<div align="left">
+  <a href="mailto:juthamatt.sp@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+<br>
+
+**📍 Location:** Loei, Thailand <br>
+**📱 Phone:** 097-323-8993
