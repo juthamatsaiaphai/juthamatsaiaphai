@@ -161,7 +161,26 @@ Cleaned and analyzed healthcare datasets to identify factors associated with Acu
 - Microsoft Power BI Training (3 Hours) | Thailand Professional Qualification Institute (TPQI) (2025)
 - MSU Computer & Digital Competency Test Report | Computer Center, Mahasarakham University (2026)
 
-📂 **View All Certifications**
+<details>
+  <summary><b>🖼️ View All Certifications (Images)</b></summary>
+  <br>
+  
+  <!-- 1. Gemini Certified Educator -->
+  <p><b>1. Gemini Certified Educator (2026)</b></p>
+  <img src="https://github.com/user-attachments/assets/d87fbf66-6bc9-410f-aed1-28997ee3b27e" alt="Gemini Certified Educator" width="400">
+  <br><br>
+
+  <!-- 2. Microsoft PowerBI Training -->
+  <p><b>2. Microsoft PowerBI Training - TPQI (2025)</b></p>
+  <img src="https://github.com/user-attachments/assets/98fbe41e-c87a-426c-81fc-584d08a6183f" alt="Microsoft PowerBI Training TPQI" width="400">
+  <br><br>
+
+  <!-- 3. MSU Test Report -->
+  <p><b>3. MSU Digital Competency Test Report (2026)</b></p>
+  <img src="https://github.com/user-attachments/assets/d0423ff9-ff8f-41c3-b448-169696f81494" alt="MSU Test Report Form" width="400">
+  <br><br>
+
+</details>
 
 ---
 
