@@ -222,13 +222,4 @@ I am eager to apply my analytical, technical, and problem-solving skills while g
 📱 Phone: +66 97 323 8993
 
 📍 Loei, Thailand
-
----
-
-# 🌐 Connect with Me
-
-- LinkedIn
-- Portfolio
-- Resume (PDF)
-
 ---
