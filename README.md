@@ -73,20 +73,17 @@ n8n | AI Studio | Visual Studio Code
   
   <!-- 1. Gemini Certified Educator -->
   <p><b>1. Gemini Certified Educator (2026)</b></p>
-  <img src="  <img width="1171" height="801" alt="Screenshot 2026-07-22 141836" src="https://github.com/user-attachments/assets/c66d4afa-f24d-4215-b67a-8af14c1e8e8c" />
-   " alt="Gemini Certified Educator" width="400">
+  <img src="https://github.com/user-attachments/assets/c66d4afa-f24d-4215-b67a-8af14c1e8e8c" alt="Gemini Certified Educator" width="400">
   <br><br>
 
   <!-- 2. Microsoft PowerBI Training -->
   <p><b>2. Microsoft PowerBI Training - TPQI (2025)</b></p>
-  <img src="  <img width="467" height="661" alt="Screenshot 2026-07-22 141920" src="https://github.com/user-attachments/assets/98fbe41e-c87a-426c-81fc-584d08a6183f" />
-   " alt="Microsoft PowerBI Training TPQI" width="400">
+  <img src="https://github.com/user-attachments/assets/98fbe41e-c87a-426c-81fc-584d08a6183f" alt="Microsoft PowerBI Training TPQI" width="400">
   <br><br>
 
   <!-- 3. MSU Test Report -->
   <p><b>3. MSU Digital Competency Test Report (2026)</b></p>
-  <img src=" <img width="1030" height="710" alt="Screenshot 2026-07-22 142003" src="https://github.com/user-attachments/assets/d0423ff9-ff8f-41c3-b448-169696f81494" />
-   " alt="MSU Test Report Form" width="400">
+  <img src="https://github.com/user-attachments/assets/d0423ff9-ff8f-41c3-b448-169696f81494" alt="MSU Test Report Form" width="400">
   <br><br>
 
 </details>
