@@ -217,9 +217,9 @@ I am eager to apply my analytical, technical, and problem-solving skills while g
 
 # 📫 Contact
 
-📧 Email: your-email@example.com
+📧 Email: juthamatt.sp@gmail.com
 
-📱 Phone: +66 XX XXX XXXX
+📱 Phone: +66 97 323 8993
 
 📍 Loei, Thailand
 
