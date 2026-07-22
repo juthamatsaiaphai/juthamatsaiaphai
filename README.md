@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Juthamat Saiaphai 👋</h1>
-<h3 align="center">Business Analyst / System Analyst</h3>
+<h3 align="center">Digital Business and Information Systems Student</h3>
 
 <p align="center">
   <em>Motivated to analyze business requirements, transform processes, and deliver data-driven digital solutions.</em>
@@ -63,25 +63,33 @@ n8n | AI Studio | Visual Studio Code
 ## 🏆 Certificates & Training
 
 ### 📜 Certifications
-  **[ชื่อใบเซอร์ของคุณ 1]** (ปี ค.ศ.)  
-  **[ชื่อใบเซอร์ของคุณ 2]** (ปี ค.ศ.)  
+* **Gemini Certified Educator** | Google for Education (2026)
+* **Microsoft PowerBI Training (3 Hours)** | สถาบันคุณวุฒิวิชาชีพ (องค์การมหาชน) - TPQI (2025)
+* **MSU Computer & Digital Competency Test Report** | Computer Center Mahasarakham University (2026)
 
 <details>
   <summary><b>🖼️ Click to view my certificates (Images)</b></summary>
   <br>
   
-  <!-- Certificate 1 -->
-  <p><b>1. [ชื่อใบประกาศนียบัตร 1]</b></p>
-  <img src="ใส่_URL_รูปภาพใบเซอร์1" alt="Certificate 1" width="400">
+  <!-- 1. Gemini Certified Educator -->
+  <p><b>1. Gemini Certified Educator (2026)</b></p>
+  <img src="  [na26tyui_1770860408213.pdf](https://github.com/user-attachments/files/30257855/na26tyui_1770860408213.pdf)
+  " alt="Gemini Certified Educator" width="400">
   <br><br>
 
-  <!-- Certificate 2 -->
-  <p><b>2. [ชื่อใบประกาศนียบัตร 2]</b></p>
-  <img src="ใส่_URL_รูปภาพใบเซอร์2" alt="Certificate 2" width="400">
+  <!-- 2. Microsoft PowerBI Training -->
+  <p><b>2. Microsoft PowerBI Training - TPQI (2025)</b></p>
+  <img src="   [Certificate-MS02-TH.pdf](https://github.com/user-attachments/files/30257860/Certificate-MS02-TH.pdf)
+" alt="Microsoft PowerBI Training TPQI" width="400">
+  <br><br>
+
+  <!-- 3. MSU Test Report -->
+  <p><b>3. MSU Digital Competency Test Report (2026)</b></p>
+  <img src="  [Digital_Literacy_Exit_Exam-43021-66010916014.pdf](https://github.com/user-attachments/files/30257879/Digital_Literacy_Exit_Exam-43021-66010916014.pdf)
+   " alt="MSU Test Report Form" width="400">
   <br><br>
 
 </details>
-
 ---
 
 ## 📫 Contact & Connect
