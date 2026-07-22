@@ -49,15 +49,29 @@ n8n | AI Studio | Visual Studio Code
 
 ## 📂 Featured Projects
 
+* **GreenTrail E-commerce Website** *(PHP, MySQL, Bootstrap, JavaScript)*  
+  Managed product information, supported database development, and contributed to website implementation and testing for an e-commerce platform.
+
 * **Apple Global Sales Insight** *(Power BI, Power Query, DAX)*  
   Cleaned sales datasets and designed a 5-page interactive Power BI dashboard to analyze KPIs and sales trends.
-* **Rewear – Online Second-Hand Clothing Platform** *(Figma, draw.io)*  
-  Analyzed business requirements, designed system workflows using SDLC, and created UI/UX prototypes.
-* **Relational Database Design & Management** *(Oracle SQL, PL/SQL)*  
-  Designed relational databases for beauty salon and bakery inventory systems, optimizing performance and storage.
-* **Comparison of Predictive Models for Asthma** *(AI Studio, Machine Learning)*  
-  Built and evaluated multiple machine learning models for asthma prediction using healthcare datasets.
 
+* **Business Workflow Automation & Survey System** *(n8n, Google Forms, Google Sheets)*  
+  Designed and implemented an automated workflow to streamline survey data collection and processing using n8n and Google Workspace.
+
+* **7-Eleven Mobile Application UX/UI Redesign** *(FlutterFlow, Figma, UX Research)*  
+  Conducted user research, redesigned application workflows, and developed interactive UI/UX prototypes to improve usability and user experience.
+
+* **Rewear – Online Second-Hand Clothing Platform** *(Figma, draw.io, System Analysis)*  
+  Analyzed business requirements, designed system workflows using SDLC principles, and created UI/UX prototypes.
+
+* **Relational Database Design & Management** *(Oracle SQL, Oracle PL/SQL)*  
+  Designed relational databases for beauty salon and bakery inventory systems and developed SQL/PLSQL solutions to support business operations.
+
+* **Comparison of Predictive Models for Asthma** *(AI Studio 2025.11, Machine Learning)*  
+  Built and evaluated multiple machine learning models for asthma prediction and compared model performance using healthcare datasets.
+
+* **Predictive Analysis of Acute Kidney Injury** *(R Programming, Microsoft Excel, Power Query)*  
+  Cleaned and analyzed healthcare datasets to identify factors associated with Acute Kidney Injury (AKI) through statistical analysis and data visualization.
 ---
 
 ## 🏆 Certificates & Training
