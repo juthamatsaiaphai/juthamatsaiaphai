@@ -68,7 +68,7 @@ n8n | AI Studio | Visual Studio Code
 * **MSU Computer & Digital Competency Test Report** | Computer Center Mahasarakham University (2026)
 
 <details>
-  <summary><b>🖼️ Click to view my certificates (Images)</b></summary>
+  <summary><b>🖼️ View All Certifications (Images)</b></summary>
   <br>
   
   <!-- 1. Gemini Certified Educator -->
