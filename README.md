@@ -154,7 +154,6 @@ Built and evaluated multiple machine learning models for asthma prediction and c
 Cleaned and analyzed healthcare datasets to identify factors associated with Acute Kidney Injury (AKI) through statistical analysis and data visualization.
 
 ---
-
 # 🏆 Certifications & Training
 
 - Gemini Certified Educator | Google for Education (2026)
@@ -183,12 +182,10 @@ Cleaned and analyzed healthcare datasets to identify factors associated with Acu
 
   <!-- 4. MSU English Exit-Exam Test Report -->
   <p><b>4. MSU English Exit-Exam Test Report (2026)</b></p>
-  <img src="<img width="2000" height="1414" alt="certificate" src="https://github.com/user-attachments/assets/752d395d-9415-421d-b8e8-4933e80e7514" />
- " alt="MSU English Exit-Exam Test Report" width="400">
+  <img src="https://github.com/user-attachments/assets/eaf23187-b2ea-48ec-ae15-028e535d69a1" alt="MSU English Exit-Exam Test Report" width="400">
   <br><br>
 
 </details>
-
 ---
 
 # 🌍 Languages
