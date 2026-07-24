@@ -160,6 +160,7 @@ Cleaned and analyzed healthcare datasets to identify factors associated with Acu
 - Gemini Certified Educator | Google for Education (2026)
 - Microsoft Power BI Training (3 Hours) | Thailand Professional Qualification Institute (TPQI) (2025)
 - MSU Computer & Digital Competency Test Report | Computer Center, Mahasarakham University (2026)
+- MSU English Exit-Exam Test Report (CEFR B1) | Office of General Education, Mahasarakham University (2026)
 
 <details>
   <summary><b>🖼️ View All Certifications (Images)</b></summary>
@@ -178,6 +179,12 @@ Cleaned and analyzed healthcare datasets to identify factors associated with Acu
   <!-- 3. MSU Test Report -->
   <p><b>3. MSU Digital Competency Test Report (2026)</b></p>
   <img src="https://github.com/user-attachments/assets/d0423ff9-ff8f-41c3-b448-169696f81494" alt="MSU Test Report Form" width="400">
+  <br><br>
+
+  <!-- 4. MSU English Exit-Exam Test Report -->
+  <p><b>4. MSU English Exit-Exam Test Report (2026)</b></p>
+  <img src="<img width="860" height="608" alt="Screenshot 2026-07-24 194752" src="https://github.com/user-attachments/assets/20e2b4c9-90d8-4c24-b5b2-fc62d299a92c" />
+" alt="MSU English Exit-Exam Test Report" width="400">
   <br><br>
 
 </details>
